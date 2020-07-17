@@ -1,0 +1,5 @@
+package com.rohith.springAssignment.dependancyAndScope;
+
+public class University {
+
+}

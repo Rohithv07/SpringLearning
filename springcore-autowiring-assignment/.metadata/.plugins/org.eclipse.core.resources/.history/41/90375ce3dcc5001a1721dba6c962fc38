@@ -1,0 +1,10 @@
+package com.rohith.springAssignment.dependancyAndScope;
+
+public class Test {
+
+	public static void main(String[] args) {
+		ApplicationContext cnt = ClassPathXmlApplicationContext("com/rohith/springAssignment/dependancyAndScope/Config.xml");
+
+	}
+
+}

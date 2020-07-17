@@ -1,0 +1,5 @@
+package com.rohith.springAssignment.autowiring;
+
+public class Customer {
+
+}
